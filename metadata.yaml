@@ -1,0 +1,40 @@
+_repo: Bede-s-Ecclesiastical-History-of-England_38326
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Sellar, A. M.
+    gutenberg_agent_id: '39602'
+    url: http://www.gutenberg.org/2009/agents/39602
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bede, the Venerable, Saint
+    aliases:
+    - Beda, Anglicus
+    - Bedanus, Venerabilis
+    - Baeda Venerabilis
+    - Bede, the Venerable, Saint, Presbyter
+    - Bede, Saint
+    - Beda, Sacerdos
+    - Beda, Anglus
+    birthdate: 673
+    deathdate: 735
+    gutenberg_agent_id: '39416'
+    url: http://www.gutenberg.org/2009/agents/39416
+    wikipedia: http://en.wikipedia.org/wiki/Bede
+description: ''
+gutenberg_issued: '2011-12-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BR'
+- !lcsh 'England -- Church history -- 449-1066'
+title: Bede's Ecclesiastical History of England
+url: http://www.gutenberg.org/ebooks/38326
